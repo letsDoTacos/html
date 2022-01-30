@@ -1,0 +1,23 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+fieldset {
+  margin: 20px;
+  padding: 10px;
+  /* display: block; */
+  border-color: grey;
+  border-width: 3px;
+  border-style: solid;
+  width: 400px;
+  text-align: left;
+}
+
+legend {
+  color: grey;
+}
